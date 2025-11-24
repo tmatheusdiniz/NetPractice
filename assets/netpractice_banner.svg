@@ -28,7 +28,7 @@
   <line x1="130" y1="100" x2="365" y2="100" stroke="#60A5FA" stroke-width="2" stroke-dasharray="5,5" opacity="0.6"/>
   <line x1="435" y1="100" x2="670" y2="100" stroke="#60A5FA" stroke-width="2" stroke-dasharray="5,5" opacity="0.6"/>
   
-  <!-- Data packets -->
+  <!-- Data packets (animated) -->
   <circle cx="250" cy="100" r="4" fill="#60A5FA">
     <animate attributeName="cx" from="130" to="365" dur="2s" repeatCount="indefinite"/>
   </circle>
@@ -43,7 +43,7 @@
   
   <!-- Subtitle -->
   <text x="400" y="165" font-family="Arial, sans-serif" font-size="14" fill="#9CA3AF" text-anchor="middle">
-    Network Configuration & TCP/IP Fundamentals
+    Network Configuration and TCP/IP Fundamentals
   </text>
   
   <!-- IP address labels -->
