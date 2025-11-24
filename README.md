@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/tmatheusdiniz/NetPractice/releases/dowload/svg/netpractice_banner.svg" width="700" height="150">
+  <img src="assets/netpractice_banner.svg" width="700" height="150">
 </p>
 
 <p align="center">
